@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tessertest",
+    "slug": "tessertest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tessertest"
+}
